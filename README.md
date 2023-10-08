@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devprashantsh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Physics with proggraming
-- 💞️ I Specialise on Web Projects using React, Flask and MongoDb.
+- 💞️ I Specialise on Web Projects.
 - 📫 How to reach me : mail:- sharmaprash2207@gmail.com, instagram:- @prashant.jsx
 
 <!---
