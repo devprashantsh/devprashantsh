@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sharmaprash2207@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQCdVhr5VnAAiXNyHG_pZmSWG038kCppQcYzTBLz1IFkREiSn6epoJBgAnuz3R6J5VIm5iOB3O4OrXN/pub](https://docs.google.com/document/d/e/2PACX-1vQCdVhr5VnAAiXNyHG_pZmSWG038kCppQcYzTBLz1IFkREiSn6epoJBgAnuz3R6J5VIm5iOB3O4OrXN/pub)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
