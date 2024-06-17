@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [updatelater.com](updatelater.com)
 
-- 📝 I regularly write articles on [https://medium.com/@prashantwrites](https://medium.com/@prashantwrites)
+- 📝 I regularly write articles on [https://dev.to/sharmaprash]([https://medium.com/@prashantwrites](https://dev.to/sharmaprash))
 
 - 💬 Ask me about **react, express**
 
